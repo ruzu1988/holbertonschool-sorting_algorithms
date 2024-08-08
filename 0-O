@@ -1,0 +1,4 @@
+O(n)       # best case (Mejor caso)
+O(n^2)     # average case (Caso promedio)
+O(n^2)     # worst case (Peor caso)
+
